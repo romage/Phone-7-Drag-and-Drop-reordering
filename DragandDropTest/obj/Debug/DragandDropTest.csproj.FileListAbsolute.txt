@@ -1,0 +1,17 @@
+C:\projects\phone\DragandDropTest\DragandDropTest\Bin\Debug\ApplicationIcon.png
+C:\projects\phone\DragandDropTest\DragandDropTest\Bin\Debug\Background.png
+C:\projects\phone\DragandDropTest\DragandDropTest\Bin\Debug\DragandDropTest.dll
+C:\projects\phone\DragandDropTest\DragandDropTest\Bin\Debug\DragandDropTest.pdb
+C:\projects\phone\DragandDropTest\DragandDropTest\Bin\Debug\AppManifest.xaml
+C:\projects\phone\DragandDropTest\DragandDropTest\Bin\Debug\DragandDropTest.xap
+C:\projects\phone\DragandDropTest\DragandDropTest\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\phone\DragandDropTest\DragandDropTest\obj\Debug\App.g.i.cs
+C:\projects\phone\DragandDropTest\DragandDropTest\obj\Debug\MainPage.g.i.cs
+C:\projects\phone\DragandDropTest\DragandDropTest\obj\Debug\DragandDropTest.g.resources
+C:\projects\phone\DragandDropTest\DragandDropTest\obj\Debug\DragandDropTest.dll
+C:\projects\phone\DragandDropTest\DragandDropTest\obj\Debug\DragandDropTest.pdb
+C:\projects\phone\DragandDropTest\DragandDropTest\obj\Debug\XapCacheFile.xml
+C:\projects\phone\DragandDropTest\DragandDropTest\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\projects\phone\DragandDropTest\DragandDropTest\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\projects\phone\DragandDropTest\DragandDropTest\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\projects\Phone\DragandDropTest\DragandDropTest\obj\Debug\superRect.g.i.cs
